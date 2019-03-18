@@ -1,6 +1,7 @@
 # Github Basics
-Remote repo to help me test out my Github skills
+Remote repo to save my first site!
 
-### Learning this and this really needs another header
-
+### Last commits
 [I'm learning this on Lynda.com](http://www.lynda.com)
+
+- Added all files to remote repo.
