@@ -1,0 +1,38 @@
+body
+{
+    font-family: Verdana;
+    margin: 0;
+}
+#container
+{
+    width: 1920px;
+    height: auto;
+    background-color: whitesmoke;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.omschrijving
+{
+    height: 100px;
+    width: 300px;
+    align-content: start;
+    resize: none;
+}
+.center
+{
+    text-align: center;
+}
+#form table
+{
+    margin: auto;
+}
+#form
+{
+    height: 300px;
+    margin-top: 30px;
+}
+#form input
+{
+    width: 300px;
+}
