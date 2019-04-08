@@ -5,3 +5,4 @@ Second branch
 [I'm learning this on Lynda.com](http://www.lynda.com)
 
 - Updated directory layout
+- Moved all stylesheets to stylesheets folder
