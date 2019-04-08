@@ -1,8 +1,7 @@
 # Github Basics
-Remote repo to save my first site!
+Second branch
 
 ### Last commits
 [I'm learning this on Lynda.com](http://www.lynda.com)
 
-- Added all files to remote repo.
-- Changed directories for a more efficient workflow
+- Updated directories
