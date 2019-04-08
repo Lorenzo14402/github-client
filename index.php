@@ -44,8 +44,7 @@ include "header.php";
 <div id="container">
     <span class="maintext">
         <h1>Welkom!</h1>
-        <p>Mijn naam is Lorenzo en ik ben een sport fanaat dit is vooral om dit te vullen maar ik wil deze zelf geprogrammeerde site gaan gebruiken
-            om mijn sport gegevens bij te houden zoals: gewicht, lengte en calorien en een kleine omschrijving van hoe de training ging.</p>
+        <p>Version: BETA 0.0.1</p>
     </span>
     <iframe src="https://onedrive.live.com/embed?cid=4497D046BC1E8D67&amp;resid=4497D046BC1E8D67%211676&amp;authkey=AC43nW2lqxqfgBw&amp;em=2&amp;wdStartOn=1" width="500px" height="500px" frameborder="0">Dit is een ingesloten <a target="_blank" href="https://office.com">Microsoft Office</a>-documentbestand dat mogelijk is gemaakt door <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
 </div>
