@@ -1,0 +1,44 @@
+body
+{
+    font-family: Verdana;
+    margin: 0;
+}
+#container
+{
+    width: 1920px;
+    height: auto;
+    background-color: whitesmoke;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+#container h1, p
+{
+    text-align: center;
+}
+#newgegevens
+{
+    width: 960px;
+    height: 300px;
+    margin: auto;
+    float: left;
+    text-align: center;
+}
+#kijkgegevens
+{
+    width: 960px;
+    height: 300px;
+    margin: auto;
+    float: left;
+    text-align: center;
+}
+#container h3
+{
+    text-align: center;
+    color: black;
+}
+#newgegevens a:hover, #kijkgegevens a:hover
+{
+    color: black;
+    text-decoration: underline;
+}
