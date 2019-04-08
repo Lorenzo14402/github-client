@@ -36,3 +36,4 @@ $result = $conn->query($querySel);
 ?>
 </table>
 </body>
+</html>
