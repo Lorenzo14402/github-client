@@ -5,3 +5,4 @@ Remote repo to save my first site!
 [I'm learning this on Lynda.com](http://www.lynda.com)
 
 - Added all files to remote repo.
+- Changed directories for a more efficient workflow
